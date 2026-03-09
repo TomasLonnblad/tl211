@@ -111,7 +111,7 @@ const Card3dDemo = () => {
       <CardContent className='space-y-6 text-sm'>
         <img
           ref={imageRef}
-          src='https://cdn.shadcnstudio.com/ss-assets/components/card/image-10.png?width=350&format=auto'
+          src='https://tomaslonnblad.github.io/mountains.jpg?width=350&format=auto'
           alt='Banner'
           className='aspect-video w-full rounded-md object-cover'
           width={500}
